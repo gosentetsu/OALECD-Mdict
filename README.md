@@ -1,4 +1,5 @@
 # OALECD-Mdict
+
 Oxford Advanced Learner's English-Chinese Dictionary Eighth edition
 
 CSS Redesigned.
@@ -23,6 +24,8 @@ CSS Redesigned.
 ![Screenshot](https://raw.githubusercontent.com/LeafNg/[OALECD-Mdict](https://github.com/LeafNg/OALECD-Mdict)/master/Screenshot.JPEG)
 
 
-Origninal Mdict Resources:
-
+Original Mdict Resources:
 https://www.pdawiki.com/forum/thread-22034-1-5.html
+
+Modify Tools:
+https://forum.freemdict.com/t/topic/1251
