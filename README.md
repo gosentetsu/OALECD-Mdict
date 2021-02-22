@@ -24,5 +24,7 @@ CSS Redesigned.
 
 
 Origninal Mdict Resources:
-
 https://www.pdawiki.com/forum/thread-22034-1-5.html
+
+Modify Tools:
+https://forum.freemdict.com/t/topic/1251
