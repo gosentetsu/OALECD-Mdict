@@ -21,8 +21,7 @@ CSS Redesigned.
 
   
 
-![Screenshot](https://raw.githubusercontent.com/LeafNg/[OALECD-Mdict](https://github.com/LeafNg/OALECD-Mdict)/master/Screenshot.JPEG)
-
+![Screenshot](https://github.com/LeafNg/OALECD-Mdict/blob/main/Screenshot.JPEG?raw=true)
 
 Original Mdict Resources:
 https://www.pdawiki.com/forum/thread-22034-1-5.html
