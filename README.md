@@ -13,7 +13,7 @@ CSS Redesigned.
 
 - delete quote color backgrounds
 
-- using *helvetica* font as quote
+- use *helvetica* font as quote
 
 - more compact alignment
 
