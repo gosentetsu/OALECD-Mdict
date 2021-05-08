@@ -7,11 +7,11 @@ CSS Redesigned.
 
 
 
-- delete trumpet icon
+- remove trumpet icon
 
 - highlight colors
 
-- delete quote color backgrounds
+- remove quote color backgrounds
 
 - use *helvetica* font as quote
 
